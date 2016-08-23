@@ -3,6 +3,8 @@ Github links for the projects on my resume
 
 ## Projects
 
+*  [Miia](https://github.com/DarinM223/miia)
+*  [Mold2D](https://github.com/DarinM223/mold2d)
 *  [Yamlate](https://github.com/DarinM223/yamlate)
 *  [Notecator](https://github.com/DarinM223/Notecator)
 *  [Bookcycle](https://github.com/DarinM223/bookcycle)
@@ -14,6 +16,8 @@ Github links for the projects on my resume
 
 ## Other projects
 
+* [rust-feeny, an interpreter and virtual machine for the feeny instructional programming language](https://github.com/DarinM223/rust-feeny)
+* [sudoku-redux, a sudoku grid widget that automatically highlights repeated values](https://github.com/DarinM223/sudoku-redux)
 * [spreadsheet, a work in progress Google Sheets clone in isomorphic Clojure](https://github.com/DarinM223/spreadsheet)
 * [minesweeper-js, Minesweeper written in a few hours of coding](https://github.com/DarinM223/minesweeper-js)
 * [osin-sql-storage, a SQL wrapper for a Go OAuth2 library](https://github.com/DarinM223/osin-sql-storage)
@@ -23,5 +27,6 @@ Github links for the projects on my resume
 
 ## Open source
 
-* [Hub](https://github.com/github/hub)
-* [Servo](https://github.com/servo/servo)
+* [Hub](https://github.com/github/hub/pulls?q=is%3Apr+author%3ADarinM223+is%3Aclosed)
+* [Servo](https://github.com/servo/servo/pulls?q=is%3Apr+author%3ADarinM223+is%3Aclosed)
+* [Hyper](https://github.com/hyperium/hyper/pulls?q=is%3Apr+author%3ADarinM223+is%3Aclosed)
